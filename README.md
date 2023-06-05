@@ -5,7 +5,8 @@
 <!--소개-->
 
 ## Introduction
-도전을 즐기자
+도전을 즐기자</br>
+[Portfolio](https://tulip-gasosaurus-e90.notion.site/5ed4a3905bee44d59d38e7ddba83b6e2?pvs=4)
 <br/><br/>  <br/>
  
  
