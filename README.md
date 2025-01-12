@@ -20,4 +20,23 @@
   <a href="https://www.instagram.com/im2sh__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/im2sh__/"/></a>
   <a href="mailto:im2shandyou@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=im2shandyou@gmail.com"/></a>
   <a href="https://www.linkedin.com/in/im2sh/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/im2sh/"></a>
+  
 </div>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=im2sh&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/im2sh?pet-id=666189437149658828"
+    width="1000"
+    height="100"
+  />
+  <img
+    src="https://render.gitanimals.org/lines/im2sh?pet-id=666191631617887112"
+    width="1000"
+    height="100"
+  />
+  <img
+    src="https://render.gitanimals.org/lines/im2sh?pet-id=666189624538566536"
+    width="1000"
+    height="100"
+  />
+</a>
